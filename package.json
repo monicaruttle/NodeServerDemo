@@ -1,0 +1,9 @@
+{
+  "name": "MOMOMO",
+  "version": "0.0.1",
+  "dependencies": {
+    "ip": "^0.1.0",
+    "http": "^0.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
